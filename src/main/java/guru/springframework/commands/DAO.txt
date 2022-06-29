@@ -1,0 +1,7 @@
+command classes zijn hetzelfde als DAO (CIRB)
+
+om domain model af te schermen
+
+abstractie / isolatie
+
+https://www.baeldung.com/java-dao-pattern
